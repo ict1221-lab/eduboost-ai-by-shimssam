@@ -1,0 +1,8 @@
+{
+  "name": "Copy of EduBoost AI: Teacher's Innovation Workspace",
+  "description": "교사의 업무 부담을 획기적으로 줄여주는 AI 기반 업무 자동화 및 수업 지원 플랫폼입니다. 생활통기록부 작성, 수업 설계, 학부모 알림장 초안 생성 등을 지원합니다.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
